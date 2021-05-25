@@ -1,0 +1,27 @@
+25/05/2021
+
+OBJECTIVE FUNCTION
+
+Ask a question (How would we know if the question is suboptimal? We don't). Can a scientific experiement be conducted for an answer? Yes->question within scientific domain
+,else not within scientific domain.
+Scientific experiments are dependent/ designed on the precision and capabilities of the tools used within the experiment.
+By improving the precision and capabilities of the tools used in scientific experiments, you increase the number of questions within the scientific domain.
+
+Intelligence = measures an agent’s ability to achieve goals in a wide range of environments (Legg and Hutter, 2007).
+SuperIntelligence = an intellect that is much smarter than the best human brains in practically every field, 
+                    including scientific creativity, general wisdom and social skills (Bostrom, 2016).
+
+Given SuperIntelligence v1 (built "responsibly"), the capability delta of scientific tools compared to current SOTA would be a huge improvement,
+thereby increasing the number of questions that are answerable by science. This leads to scientific insights (e.g. AlphaFold (Senior et al., 2020)).
+
+If an intelligent agent scientist were replaced by a superintelligent scientist agent then the above arguement still holds true.
+Why become a scientist, when you can build a much better scientist than you?
+
+References:
+1. Legg, S. and Hutter, M., 2007. Universal Intelligence: A Definition of Machine Intelligence. Minds and Machines, 17(4), pp.391-444.
+2. Bostrom, N., 2016. Superintelligence. Oxford University Press.
+3. Senior, A., Evans, R., Jumper, J., Kirkpatrick, J., Sifre, L., 
+   Green, T., Qin, C., Žídek, A., Nelson, A., Bridgland, A., Penedones, H., 
+   Petersen, S., Simonyan, K., Crossan, S., Kohli, P., Jones, D., Silver,
+   D., Kavukcuoglu, K. and Hassabis, D., 2020. 
+   Improved protein structure prediction using potentials from deep learning. Nature, 577(7792), pp.706-710.
