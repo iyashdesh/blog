@@ -1,2 +1,2 @@
-# blog
-# open MSc Thesis in Chrome only.
+blog
+open MSc Thesis in Chrome only.
