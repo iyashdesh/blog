@@ -52,3 +52,26 @@ Algorithms Stack:
   b.	Design and Analysis of Algorithms
   c.	Algorithmic Lower Bounds: Fun with Hardness Proofs
  2. CodeForces Rating >=1900
+ 
+ 14/02/2020
+ Deep Learning (DL)-based approach to life:
+ 
+ DL objective = To construct a function that classifies the training data correctly, so it can generalise to unseen test data, where the Neural Network (NN) is artificial (ANN).
+ 
+ Spse. DL function = human function, where NN is is biological (BNN).
+ 
+ Hypothesis:
+ What would the test data include?
+ spse. a,b,c
+ e.g.
+ a = problem solving
+ 
+ Given test data, what woudl the training data include (i.e. how would you train for the test data)?
+ (test data content: train data) map:
+ (a,1), (b,2), (c,3)
+ e.g.
+ (a, solve maths competition problems)
+ 
+ For all training that exists in Training set:
+      "classify" or ans correctly -> creates a function in your BNN| the function can generalise to unseen test data correctly.
+      
