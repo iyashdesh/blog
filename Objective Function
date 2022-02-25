@@ -33,26 +33,6 @@ Given superintelligence, p2>p1 => Let goal = creating and deploying superintelli
 AI Safety = creating and deploying superintelligence agent, responsibly,
 => I'll try to join an AI Safety Team.
 
-18/01/2022
-Maths Training Arc:
-
-Gold standard = solve all problems without help.
-Achieve gold standard for all below.
-
-Deep Learning Stack:
-1.	MIT ocw:
-  a.	Linear Algebra
-  b.	Differential Equations
-  c.	Probabilistic Systems Analysis and Applied Probability
-2.	Linear Algebra and Learning from Data
-
-Algorithms Stack:
-1.	MIT ocw:
-  a.	Introduction to Algorithms
-  b.	Design and Analysis of Algorithms
-  c.	Algorithmic Lower Bounds: Fun with Hardness Proofs
- 2. CodeForces Rating >=1900
- 
  14/02/2020
  Deep Learning (DL)-based approach to life:
  
@@ -74,4 +54,3 @@ Algorithms Stack:
  
  For all training that exists in Training set:
       "classify" or ans correctly -> creates a function in your BNN| the function can generalise to unseen test data correctly.
-      
