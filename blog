@@ -46,7 +46,7 @@ AI Safety = creating and deploying superintelligence agent, responsibly,
  e.g.
  a = problem solving
  
- Given test data, what woudl the training data include (i.e. how would you train for the test data)?
+ Given test data, what would the training data include (i.e. how would you train for the test data)?
  (test data content: train data) map:
  (a,1), (b,2), (c,3)
  e.g.
